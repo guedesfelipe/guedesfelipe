@@ -5,39 +5,39 @@ I'm a developer with 8+ years of experience with software development, web scrap
 ## 🔧  Tools & Technologies
 
 <!-- OS -->
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=fdfd96)<!-- CODE -->
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=fdfd96)
-![](https://img.shields.io/badge/Code-Arduino-information?style=flat&logo=arduino&logoColor=white&color=fdfd96)
-![](https://img.shields.io/badge/Code-Bootstrap-information?style=flat&logo=bootstrap&logoColor=white&color=fdfd96)
-![](https://img.shields.io/badge/Code-Django-information?style=flat&logo=django&logoColor=white&color=fdfd96)
-![](https://img.shields.io/badge/API-FastAPI-information?style=flat&logo=fastapi&logoColor=white&color=fdfd96)
-![](https://img.shields.io/badge/Code-Flask-information?style=flat&logo=flask&logoColor=white&color=fdfd96)
-![](https://img.shields.io/badge/Code-HTML5-information?style=flat&logo=html5&logoColor=white&color=fdfd96)
-![](https://img.shields.io/badge/Code-JavaScript-information?style=flat&logo=JavaScript&logoColor=white&color=fdfd96)
-![](https://img.shields.io/badge/Code-CSS3-information?style=flat&logo=css3&logoColor=white&color=fdfd96)
-![](https://img.shields.io/badge/Code-JQuery-information?style=flat&logo=jquery&logoColor=white&color=fdfd96)<!-- MISC -->
-![](https://img.shields.io/badge/Editor-VIM-informational?style=flat&logo=vim&logoColor=white&color=fdfd96)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=fdfd96)
-![](https://img.shields.io/badge/Browser-Firefox-informational?style=flat&logo=Firefox&logoColor=white&color=fdfd96)
-![](https://img.shields.io/badge/Shell-Starship-informational?style=flat&logo=starship&logoColor=white&color=fdfd96)
-![](https://img.shields.io/badge/Shell-Tmux-informational?style=flat&logo=Tmux&logoColor=white&color=fdfd96)<!-- DB -->
-![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=fdfd96)
-![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongoDB&logoColor=white&color=fdfd96)
-![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=fdfd96)
-![](https://img.shields.io/badge/DB-Oracle-informational?style=flat&logo=oracle&logoColor=white&color=fdfd96)
-![](https://img.shields.io/badge/DataLake-Splunk-informational?style=flat&logo=Splunk&logoColor=white&color=fdfd96)
-![](https://img.shields.io/badge/Cache-Redis-informational?style=flat&logo=redis&logoColor=white&color=fdfd96)
-![](https://img.shields.io/badge/Queue-Rabbitmq-informational?style=flat&logo=rabbitmq&logoColor=white&color=fdfd96)<!-- TOOLS -->
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=fdfd96)
-![](https://img.shields.io/badge/Tools-CircleCI-informational?style=flat&logo=circleci&logoColor=white&color=fdfd96)
-![](https://img.shields.io/badge/Tools-Curl-informational?style=flat&logo=curl&logoColor=white&color=fdfd96)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=fdfd96)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=fdfd96)
-![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=gitlab&logoColor=white&color=fdfd96)
-![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=fdfd96)
-![](https://img.shields.io/badge/Tools-Insomnia-informational?style=flat&logo=insomnia&logoColor=white&color=fdfd96)
-![](https://img.shields.io/badge/Tools-VMware-informational?style=flat&logo=VMWARE&logoColor=white&color=fdfd96)<!-- NETWORK -->
-![](https://img.shields.io/badge/Network-Cisco-informational?style=flat&logo=cisco&logoColor=white&color=fdfd96)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=ffff5e)<!-- CODE -->
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=ffff5e)
+![](https://img.shields.io/badge/Code-Arduino-information?style=flat&logo=arduino&logoColor=white&color=ffff5e)
+![](https://img.shields.io/badge/Code-Bootstrap-information?style=flat&logo=bootstrap&logoColor=white&color=ffff5e)
+![](https://img.shields.io/badge/Code-Django-information?style=flat&logo=django&logoColor=white&color=ffff5e)
+![](https://img.shields.io/badge/API-FastAPI-information?style=flat&logo=fastapi&logoColor=white&color=ffff5e)
+![](https://img.shields.io/badge/Code-Flask-information?style=flat&logo=flask&logoColor=white&color=ffff5e)
+![](https://img.shields.io/badge/Code-HTML5-information?style=flat&logo=html5&logoColor=white&color=ffff5e)
+![](https://img.shields.io/badge/Code-JavaScript-information?style=flat&logo=JavaScript&logoColor=white&color=ffff5e)
+![](https://img.shields.io/badge/Code-CSS3-information?style=flat&logo=css3&logoColor=white&color=ffff5e)
+![](https://img.shields.io/badge/Code-JQuery-information?style=flat&logo=jquery&logoColor=white&color=ffff5e)<!-- MISC -->
+![](https://img.shields.io/badge/Editor-VIM-informational?style=flat&logo=vim&logoColor=white&color=ffff5e)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=ffff5e)
+![](https://img.shields.io/badge/Browser-Firefox-informational?style=flat&logo=Firefox&logoColor=white&color=ffff5e)
+![](https://img.shields.io/badge/Shell-Starship-informational?style=flat&logo=starship&logoColor=white&color=ffff5e)
+![](https://img.shields.io/badge/Shell-Tmux-informational?style=flat&logo=Tmux&logoColor=white&color=ffff5e)<!-- DB -->
+![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=ffff5e)
+![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongoDB&logoColor=white&color=ffff5e)
+![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=ffff5e)
+![](https://img.shields.io/badge/DB-Oracle-informational?style=flat&logo=oracle&logoColor=white&color=ffff5e)
+![](https://img.shields.io/badge/DataLake-Splunk-informational?style=flat&logo=Splunk&logoColor=white&color=ffff5e)
+![](https://img.shields.io/badge/Cache-Redis-informational?style=flat&logo=redis&logoColor=white&color=ffff5e)
+![](https://img.shields.io/badge/Queue-Rabbitmq-informational?style=flat&logo=rabbitmq&logoColor=white&color=ffff5e)<!-- TOOLS -->
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=ffff5e)
+![](https://img.shields.io/badge/Tools-CircleCI-informational?style=flat&logo=circleci&logoColor=white&color=ffff5e)
+![](https://img.shields.io/badge/Tools-Curl-informational?style=flat&logo=curl&logoColor=white&color=ffff5e)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=ffff5e)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=ffff5e)
+![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=gitlab&logoColor=white&color=ffff5e)
+![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=ffff5e)
+![](https://img.shields.io/badge/Tools-Insomnia-informational?style=flat&logo=insomnia&logoColor=white&color=ffff5e)
+![](https://img.shields.io/badge/Tools-VMware-informational?style=flat&logo=VMWARE&logoColor=white&color=ffff5e)<!-- NETWORK -->
+![](https://img.shields.io/badge/Network-Cisco-informational?style=flat&logo=cisco&logoColor=white&color=ffff5e)
 
 
 ## ⚡ Fun facts:
