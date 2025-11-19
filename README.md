@@ -1,67 +1,134 @@
-# Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,25,27&height=120&section=header&animation=fadeIn"/>
 
-I'm a developer with 8+ years of experience with software development, web scraping, scripting and task automation.
+<div align="center">
 
-## 🔧  Tools & Technologies
+# Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!-- OS -->
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=ffff5e)<!-- CODE -->
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=ffff5e)
-![](https://img.shields.io/badge/Code-Arduino-information?style=flat&logo=arduino&logoColor=white&color=ffff5e)
-![](https://img.shields.io/badge/Code-Bootstrap-information?style=flat&logo=bootstrap&logoColor=white&color=ffff5e)
-![](https://img.shields.io/badge/Code-Django-information?style=flat&logo=django&logoColor=white&color=ffff5e)
-![](https://img.shields.io/badge/API-FastAPI-information?style=flat&logo=fastapi&logoColor=white&color=ffff5e)
-![](https://img.shields.io/badge/Code-Flask-information?style=flat&logo=flask&logoColor=white&color=ffff5e)
-![](https://img.shields.io/badge/Code-HTML5-information?style=flat&logo=html5&logoColor=white&color=ffff5e)
-![](https://img.shields.io/badge/Code-JavaScript-information?style=flat&logo=JavaScript&logoColor=white&color=ffff5e)
-![](https://img.shields.io/badge/Code-CSS3-information?style=flat&logo=css3&logoColor=white&color=ffff5e)
-![](https://img.shields.io/badge/Code-JQuery-information?style=flat&logo=jquery&logoColor=white&color=ffff5e)<!-- MISC -->
-![](https://img.shields.io/badge/Editor-VIM-informational?style=flat&logo=vim&logoColor=white&color=ffff5e)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=ffff5e)
-![](https://img.shields.io/badge/Browser-Firefox-informational?style=flat&logo=Firefox&logoColor=white&color=ffff5e)
-![](https://img.shields.io/badge/Shell-Starship-informational?style=flat&logo=starship&logoColor=white&color=ffff5e)
-![](https://img.shields.io/badge/Shell-Tmux-informational?style=flat&logo=Tmux&logoColor=white&color=ffff5e)<!-- DB -->
-![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=ffff5e)
-![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongoDB&logoColor=white&color=ffff5e)
-![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=ffff5e)
-![](https://img.shields.io/badge/DB-Oracle-informational?style=flat&logo=oracle&logoColor=white&color=ffff5e)
-![](https://img.shields.io/badge/DataLake-Splunk-informational?style=flat&logo=Splunk&logoColor=white&color=ffff5e)
-![](https://img.shields.io/badge/Cache-Redis-informational?style=flat&logo=redis&logoColor=white&color=ffff5e)
-![](https://img.shields.io/badge/Queue-Rabbitmq-informational?style=flat&logo=rabbitmq&logoColor=white&color=ffff5e)<!-- TOOLS -->
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=ffff5e)
-![](https://img.shields.io/badge/Tools-CircleCI-informational?style=flat&logo=circleci&logoColor=white&color=ffff5e)
-![](https://img.shields.io/badge/Tools-Curl-informational?style=flat&logo=curl&logoColor=white&color=ffff5e)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=ffff5e)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=ffff5e)
-![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=gitlab&logoColor=white&color=ffff5e)
-![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=ffff5e)
-![](https://img.shields.io/badge/Tools-Insomnia-informational?style=flat&logo=insomnia&logoColor=white&color=ffff5e)
-![](https://img.shields.io/badge/Tools-VMware-informational?style=flat&logo=VMWARE&logoColor=white&color=ffff5e)<!-- NETWORK -->
-![](https://img.shields.io/badge/Network-Cisco-informational?style=flat&logo=cisco&logoColor=white&color=ffff5e)
+### Software Engineer | Tech Lead | Python Specialist
 
+<br>
 
-## ⚡ Fun facts:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=600&lines=10%2B+years+of+experience;Distributed+Systems+%26+REST+APIs;Cloud+Computing+%26+DevOps;Always+learning+new+things)](https://git.io/typing-svg)
 
-📌  Use of SNMP protocol and python script for mapping and monitoring of banking networks and other private companies in Brazil.
+</div>
 
-📌  Development of customized solutions in web environments and network monitoring.
+<br>
 
-📌  IoT Enthusiast
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
 
-[![LinkedIn](https://img.shields.io/badge/-linkedin-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/felipe-guedes-263480127)
-[![Upwork](https://img.shields.io/badge/-upwork-6FDA44?logo=Upwork&logoColor=white&style=for-the-badge)]()
+```python
+class SoftwareEngineer:
+    def __init__(self):
+        self.name = "Felipe Guedes"
+        self.role = "Senior Software Engineer @ Magalu Cloud"
+        self.location = "SP, Brasil"
+        self.languages = ["pt-BR", "en", "es"]
 
-<!--
-**guedesfelipe/guedesfelipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    def current_focus(self):
+        return [
+            "High-performance Network APIs",
+            "Distributed Systems Architecture",
+            "Cloud Computing Solutions"
+        ]
+```
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ : ...
--->
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tools & Technologies
+
+<div align="center">
+
+### Backend & APIs
+![Python](https://img.shields.io/badge/Python-14b8a6?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-a855f7?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-06b6d4?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-7c3aed?style=for-the-badge&logo=flask&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-0d9488?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Databases & Message Queues
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d9488?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-8b5cf6?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-a855f7?style=for-the-badge&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-06b6d4?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-7c3aed?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-14b8a6?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+### Cloud & DevOps
+![Docker](https://img.shields.io/badge/Docker-8b5cf6?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-a855f7?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-06b6d4?style=for-the-badge&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-7c3aed?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-14b8a6?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-0d9488?style=for-the-badge&logo=gitlab&logoColor=white)
+![CircleCI](https://img.shields.io/badge/CircleCI-8b5cf6?style=for-the-badge&logo=circleci&logoColor=white)
+
+### Monitoring & Observability
+![Prometheus](https://img.shields.io/badge/Prometheus-14b8a6?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-8b5cf6?style=for-the-badge&logo=grafana&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-a855f7?style=for-the-badge&logo=opentelemetry&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-06b6d4?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-7c3aed?style=for-the-badge&logo=opensearch&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-0d9488?style=for-the-badge&logo=sentry&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-8b5cf6?style=for-the-badge&logo=splunk&logoColor=white)
+
+### Tools & Environment
+![Vim](https://img.shields.io/badge/Vim-7c3aed?style=for-the-badge&logo=vim&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-14b8a6?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Tmux](https://img.shields.io/badge/Tmux-0d9488?style=for-the-badge&logo=tmux&logoColor=white)
+![Starship](https://img.shields.io/badge/Starship-8b5cf6?style=for-the-badge&logo=starship&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-a855f7?style=for-the-badge&logo=insomnia&logoColor=white)
+
+### Frontend (when needed)
+![JavaScript](https://img.shields.io/badge/JavaScript-06b6d4?style=for-the-badge&logo=javascript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-7c3aed?style=for-the-badge&logo=vue.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-14b8a6?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-0d9488?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
+
+<br>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Featured Projects
+
+<div align="center">
+
+[![PLS-CLI](https://github-readme-stats.vercel.app/api/pin/?username=guedesfelipe&repo=pls-cli&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=06b6d4&text_color=c9d1d9)](https://github.com/guedesfelipe/pls-cli)
+
+</div>
+
+<br>
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> Fun Facts
+
+📡 Network monitoring with experience in SNMP protocol for banking networks
+
+☁️ Passionate about cloud computing and distributed systems architecture
+
+⚡ Love building CLI tools and automation scripts
+
+🌌 Aurora borealis enthusiast - the colors and the movement inspire my work and creativity
+
+🌋 Adventure seeker who has descended into a volcano
+
+<br>
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d9488?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-guedes-263480127)
+[![Website](https://img.shields.io/badge/Website-8b5cf6?style=for-the-badge&logo=firefox&logoColor=white)](https://guedesfelipe.github.io/)
+[![Blog](https://img.shields.io/badge/Blog-a855f7?style=for-the-badge&logo=hashnode&logoColor=white)](https://guedesfelipe.github.io/blog)
+[![Email](https://img.shields.io/badge/Email-06b6d4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatofelipeguedes@gmail.com)
+
+</div>
+
+<br>
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guedesfelipe&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=06b6d4&text_color=c9d1d9)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,25,27&height=120&section=footer&animation=fadeIn"/>
